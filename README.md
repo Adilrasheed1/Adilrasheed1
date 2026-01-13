@@ -66,7 +66,35 @@ In **Session 2**, I learned how to control the flow of a Python program and orga
   Learned how to use built-in Python modules and import them to reuse code and extend functionality.
 
 ---
+Session 3: Strings in Python
 
+In Session 3, I focused on understanding strings, which are one of the most commonly used data types in Python.
+
+✅ Topics Covered
+
+Introduction to Strings
+Learned what strings are and how to define them using single quotes, double quotes, and triple quotes.
+
+String Indexing and Slicing
+Understood how to access individual characters and substrings using indexing and slicing.
+
+String Operations
+Learned common operations such as:
+Concatenation
+Repetition
+Membership operations (in, not in)
+
+String Methods
+Explored commonly used built-in string methods like:
+
+lower(), upper()
+strip(), replace()
+split(), join()
+
+String Formatting
+Learned different ways to format strings using:
+
+format() method
 
 
 ---
